@@ -72,6 +72,6 @@
 
 <div align="center">
 
-✨ *Thanks for stopping by!* · *Merci de ta visite !* ✨
+✨ *Thanks for stopping by!* · *Merci pour votre visite !* ✨
 
 </div>
