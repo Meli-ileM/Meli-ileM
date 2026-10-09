@@ -59,6 +59,17 @@
 
 ---
 
+### 🌸 Mes projets à tester / Try my projects
+
+| Projet / Project | Description | Démo / Demo |
+|---|---|---|
+| 🔐 **RUNOVA** | Messagerie chiffrée de bout en bout · E2E encrypted email | [▶️ Tester](https://claude.ai/code/artifact/f3f585df-2239-4057-9bb2-468f7f02981e) |
+| 💬 **Pingora** | Réseau social, chat & notifications temps réel · Social network | [▶️ Tester](https://claude.ai/code/artifact/b5f5ae00-a0b7-4755-8957-2fbee767ac03) |
+| 🧭 **NavBot** | Supervision de robots mobiles autonomes · Autonomous robot supervision · [Code](https://github.com/Meli-ileM/Navbot_V0) | [▶️ Tester](https://claude.ai/code/artifact/a4aef068-cf85-4907-b96c-e52492a5d3e0) |
+| 📌 **DEP-INFO** | Plateforme d'affichage universitaire · University notice board · [Code](https://github.com/Meli-ileM/ummto-plateforme-affichage) | [▶️ Tester](https://claude.ai/code/artifact/1ac44972-04b3-473c-9082-86f8dfc3f58a) |
+
+---
+
 ### 📊 GitHub stats
 
 <div align="center">
