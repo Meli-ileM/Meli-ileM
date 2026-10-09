@@ -7,6 +7,7 @@
 
 💜 I build bridges between the physical and the digital world 🌉
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Melissa_Medjber-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melissa-medjber-4a8622246/)
 [![Email](https://img.shields.io/badge/Email-melissamedjber02@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:melissamedjber02@gmail.com)
 
 </div>
