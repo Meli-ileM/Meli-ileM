@@ -7,6 +7,8 @@
 
 💜 I build bridges between the physical and the digital world 🌉
 
+[![Email](https://img.shields.io/badge/Email-melissamedjber02@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:melissamedjber02@gmail.com)
+
 </div>
 
 ---
@@ -47,26 +49,24 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
----
-
-### 🚀 Featured projects · Projets
-
-| Project | Description | Stack |
-|---|---|---|
-| 🔒 [**RUNOVA**](https://github.com/Meli-ileM/runova) | Secure encrypted messaging platform with video calls · *Master's final project, 2025* | React, Node.js, MongoDB, WebRTC |
-| 🐧 [**Pingora**](https://github.com/Meli-ileM/pingora) | Social network with real-time chat & notifications · *Team project, 2024* | React, Node.js, MongoDB, Socket.IO |
-| 🎓 [**UMMTO Platform**](https://github.com/Meli-ileM/ummto-plateforme-affichage) | Communication platform for a university department · *Bachelor's final project, 2023* | PHP, MySQL, Bootstrap |
+**DevOps**
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
 ---
 
-### 🌸 Mes projets à tester / Try my projects
+### 🚀 Projects · Projets
 
-| Projet / Project | Description | Démo / Demo |
-|---|---|---|
-| 🔐 **RUNOVA** | Messagerie chiffrée de bout en bout · E2E encrypted email | [▶️ Tester](https://claude.ai/code/artifact/f3f585df-2239-4057-9bb2-468f7f02981e) |
-| 💬 **Pingora** | Réseau social, chat & notifications temps réel · Social network | [▶️ Tester](https://claude.ai/code/artifact/b5f5ae00-a0b7-4755-8957-2fbee767ac03) |
-| 🧭 **NavBot** | Supervision de robots mobiles autonomes · Autonomous robot supervision · [Code](https://github.com/Meli-ileM/Navbot_V0) | [▶️ Tester](https://claude.ai/code/artifact/a4aef068-cf85-4907-b96c-e52492a5d3e0) |
-| 📌 **DEP-INFO** | Plateforme d'affichage universitaire · University notice board · [Code](https://github.com/Meli-ileM/ummto-plateforme-affichage) | [▶️ Tester](https://claude.ai/code/artifact/1ac44972-04b3-473c-9082-86f8dfc3f58a) |
+| Project · Projet | Description | Stack | Demo · Démo |
+|---|---|---|---|
+| 🔒 [**RUNOVA**](https://github.com/Meli-ileM/runova) | End-to-end encrypted messaging (OpenPGP, 2FA) with video calls · *Master's final project, 2025* | React, Node.js, MongoDB, WebRTC | [▶️ Try](https://claude.ai/code/artifact/f3f585df-2239-4057-9bb2-468f7f02981e) |
+| 🐧 [**Pingora**](https://github.com/Meli-ileM/pingora) | Social network with real-time chat & notifications · *Team project, 2024* | React, Node.js, MongoDB, Socket.IO | [▶️ Try](https://claude.ai/code/artifact/b5f5ae00-a0b7-4755-8957-2fbee767ac03) |
+| 🤖 [**NavBot**](https://github.com/Meli-ileM/Navbot_V0) | Supervision platform for autonomous mobile robots · *Team project, 2025 – 2026* | React, Next.js, MongoDB, Leaflet | [▶️ Try](https://claude.ai/code/artifact/a4aef068-cf85-4907-b96c-e52492a5d3e0) |
+| 📍 [**TOPOS**](https://github.com/Meli-ileM/restaurant-locator-test) | Restaurant location manager focused on geospatial data quality · *Technical test for Geoptis, 2026* | Vue 3, Node.js, PostgreSQL, Leaflet | [🌐 Live](https://restaurant-locator-test.vercel.app/) |
+| 🍅 [**PomoFriends**](https://github.com/Meli-ileM/promodo-friends) | Social Pomodoro timer to study with friends in real time · *Personal project* | React, Node.js, Firestore | [🌐 Live](https://promodo-friends-client.vercel.app) |
+| 🛒 [**DevOps Microservices**](https://github.com/Meli-ileM/tp-devops-microservices) | E-commerce app in Spring Boot microservices with Docker & CI/CD, then deployed on Kubernetes ([minikube-lab](https://github.com/Meli-ileM/minikube-lab)) · *Lab project, 2026* | Spring Boot, Docker, GitHub Actions, Kubernetes | — |
+| 🎓 [**DEP-INFO**](https://github.com/Meli-ileM/ummto-plateforme-affichage) | Notice board platform for a university CS department · *Bachelor's final project, 2023* | PHP, MySQL, Bootstrap | [▶️ Try](https://claude.ai/code/artifact/1ac44972-04b3-473c-9082-86f8dfc3f58a) |
 
 ---
 
