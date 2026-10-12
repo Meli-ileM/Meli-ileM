@@ -2,8 +2,8 @@
 
 # Hi, I'm Meli 👋🏻✨
 
-**Information Systems Engineer · Master's student in IoT (Université Gustave Eiffel)**
-*Ingénieure en Systèmes d'Information · Étudiante en M2 Systèmes et Services pour l'IoT*
+**Information Systems Engineer · IoT Systems & Services Engineer**
+*Ingénieure en Systèmes d'Information · Ingénieure en Systèmes et Services pour l'IoT*
 
 💜 I build bridges between the physical and the digital world 🌉
 
