@@ -16,8 +16,8 @@
 
 ### 🌸 About me · À propos
 
-- 💻 Full-stack developer intern at **Geoptis** (Groupe La Poste), working with Vue.js, Node.js, PostgreSQL & ECharts
-- 🎓 Master's in Information Systems Engineering, now specializing in **IoT** at Université Gustave Eiffel
+- 💻 Full-stack developer (Vue.js, Node.js, PostgreSQL, ECharts ...)
+- 🎓 Two Master’s degrees: Information Systems Engineering (UMMTO) & IoT Systems and Services (Université Gustave Eiffel)
 - 🤖 Passionate about connected systems where **IoT, AI and data** meet
 - 🌍 Open to opportunities in France and abroad
 - 🗣️ Français · English · العربية · Taqbaylit
